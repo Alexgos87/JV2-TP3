@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+<defs><mask id="road"><rect width="120" height="120" fill="white"/><path d="M4 112 C 34 104, 30 84, 58 80 S 96 70, 116 56" fill="none" stroke="black" stroke-width="9" stroke-linecap="round"/></mask></defs>
+<g transform="scale(1.25)"><circle cx="60" cy="54" r="40" fill="#D9622B" mask="url(#road)"/>
+<circle cx="20" cy="96" r="3" fill="#1F1B16" opacity="0.55"/><circle cx="12" cy="88" r="2.2" fill="#1F1B16" opacity="0.4"/><circle cx="27" cy="88" r="1.6" fill="#1F1B16" opacity="0.3"/></g>
+</svg>
