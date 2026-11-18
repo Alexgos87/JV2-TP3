@@ -1,0 +1,328 @@
+newmtl Ground_Dry
+Ka 0.820 0.690 0.400
+Kd 0.820 0.690 0.400
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Ground_Dry2
+Ka 0.760 0.620 0.350
+Kd 0.760 0.620 0.350
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Ground_Red
+Ka 0.760 0.520 0.330
+Kd 0.760 0.520 0.330
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Ground_Green
+Ka 0.550 0.620 0.300
+Kd 0.550 0.620 0.300
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Mud
+Ka 0.450 0.360 0.250
+Kd 0.450 0.360 0.250
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Rock_Red
+Ka 0.660 0.480 0.360
+Kd 0.660 0.480 0.360
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Rock
+Ka 0.620 0.580 0.520
+Kd 0.620 0.580 0.520
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Water
+Ka 0.250 0.520 0.550
+Kd 0.250 0.520 0.550
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Dirt
+Ka 0.720 0.480 0.300
+Kd 0.720 0.480 0.300
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Dirt_Edge
+Ka 0.760 0.580 0.370
+Kd 0.760 0.580 0.370
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Dirt_Rut
+Ka 0.580 0.370 0.220
+Kd 0.580 0.370 0.220
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Grass_Center
+Ka 0.750 0.660 0.380
+Kd 0.750 0.660 0.380
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Bark
+Ka 0.330 0.240 0.170
+Kd 0.330 0.240 0.170
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Baobab_Bark
+Ka 0.600 0.520 0.440
+Kd 0.600 0.520 0.440
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Acacia_Leaf
+Ka 0.460 0.560 0.220
+Kd 0.460 0.560 0.220
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Acacia_Dry
+Ka 0.620 0.620 0.280
+Kd 0.620 0.620 0.280
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Bush_Dry
+Ka 0.560 0.550 0.280
+Kd 0.560 0.550 0.280
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Termite
+Ka 0.720 0.460 0.300
+Kd 0.720 0.460 0.300
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Grass_Dry
+Ka 0.900 0.780 0.450
+Kd 0.900 0.780 0.450
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Grass_Dry2
+Ka 0.800 0.660 0.340
+Kd 0.800 0.660 0.340
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Reed
+Ka 0.450 0.580 0.240
+Kd 0.450 0.580 0.240
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Elephant
+Ka 0.560 0.540 0.520
+Kd 0.560 0.540 0.520
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Elephant_Dark
+Ka 0.460 0.440 0.430
+Kd 0.460 0.440 0.430
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Ivory
+Ka 0.950 0.920 0.820
+Kd 0.950 0.920 0.820
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Giraffe
+Ka 0.880 0.680 0.320
+Kd 0.880 0.680 0.320
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Giraffe_Dark
+Ka 0.500 0.300 0.150
+Kd 0.500 0.300 0.150
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Zebra
+Ka 0.950 0.950 0.930
+Kd 0.950 0.950 0.930
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Zebra_Stripe
+Ka 0.100 0.100 0.100
+Kd 0.100 0.100 0.100
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Antelope
+Ka 0.720 0.480 0.280
+Kd 0.720 0.480 0.280
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wood_Deck
+Ka 0.550 0.400 0.260
+Kd 0.550 0.400 0.260
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wall_Cream
+Ka 0.920 0.850 0.680
+Kd 0.920 0.850 0.680
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Thatch
+Ka 0.740 0.600 0.340
+Kd 0.740 0.600 0.340
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Door
+Ka 0.320 0.210 0.140
+Kd 0.320 0.210 0.140
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Canvas
+Ka 0.850 0.790 0.630
+Kd 0.850 0.790 0.630
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Canvas_Green
+Ka 0.580 0.580 0.400
+Kd 0.580 0.580 0.400
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Canvas_Dark
+Ka 0.350 0.320 0.240
+Kd 0.350 0.320 0.240
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Fire
+Ka 1.000 0.450 0.100
+Kd 1.000 0.450 0.100
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Fire_Hot
+Ka 1.000 0.820 0.250
+Kd 1.000 0.820 0.250
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Jeep
+Ka 0.420 0.480 0.300
+Kd 0.420 0.480 0.300
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Tire
+Ka 0.120 0.120 0.120
+Kd 0.120 0.120 0.120
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Window
+Ka 0.200 0.280 0.340
+Kd 0.200 0.280 0.340
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
