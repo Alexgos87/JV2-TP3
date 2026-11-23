@@ -1,0 +1,288 @@
+newmtl Ground_Forest
+Ka 0.300 0.470 0.190
+Kd 0.300 0.470 0.190
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Ground_Meadow
+Ka 0.550 0.700 0.290
+Kd 0.550 0.700 0.290
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Ground_Dirt
+Ka 0.560 0.440 0.290
+Kd 0.560 0.440 0.290
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Ground_Rock
+Ka 0.500 0.480 0.440
+Kd 0.500 0.480 0.440
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Bark
+Ka 0.360 0.240 0.160
+Kd 0.360 0.240 0.160
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wood_Cut
+Ka 0.780 0.620 0.400
+Kd 0.780 0.620 0.400
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Pine_Dark
+Ka 0.120 0.330 0.210
+Kd 0.120 0.330 0.210
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Pine_Light
+Ka 0.200 0.430 0.230
+Kd 0.200 0.430 0.230
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Leaf_Green
+Ka 0.290 0.550 0.180
+Kd 0.290 0.550 0.180
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Leaf_Light
+Ka 0.470 0.680 0.210
+Kd 0.470 0.680 0.210
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Leaf_Autumn
+Ka 0.880 0.560 0.160
+Kd 0.880 0.560 0.160
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Bush
+Ka 0.240 0.480 0.170
+Kd 0.240 0.480 0.170
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Rock
+Ka 0.580 0.570 0.540
+Kd 0.580 0.570 0.540
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Rock_Dark
+Ka 0.420 0.410 0.400
+Kd 0.420 0.410 0.400
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Grass
+Ka 0.400 0.640 0.210
+Kd 0.400 0.640 0.210
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Grass_Light
+Ka 0.560 0.760 0.270
+Kd 0.560 0.760 0.270
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Flower_Red
+Ka 0.860 0.220 0.200
+Kd 0.860 0.220 0.200
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Flower_Yellow
+Ka 0.980 0.820 0.220
+Kd 0.980 0.820 0.220
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Flower_White
+Ka 0.950 0.950 0.920
+Kd 0.950 0.950 0.920
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Flower_Purple
+Ka 0.580 0.350 0.800
+Kd 0.580 0.350 0.800
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wall_White
+Ka 0.930 0.910 0.860
+Kd 0.930 0.910 0.860
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wall_Cream
+Ka 0.920 0.840 0.660
+Kd 0.920 0.840 0.660
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wall_RedWood
+Ka 0.660 0.200 0.160
+Kd 0.660 0.200 0.160
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wall_Blue
+Ka 0.420 0.560 0.700
+Kd 0.420 0.560 0.700
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wall_Log
+Ka 0.550 0.380 0.220
+Kd 0.550 0.380 0.220
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Roof_Red
+Ka 0.620 0.220 0.160
+Kd 0.620 0.220 0.160
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Roof_Gray
+Ka 0.330 0.340 0.370
+Kd 0.330 0.340 0.370
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Roof_Brown
+Ka 0.380 0.260 0.180
+Kd 0.380 0.260 0.180
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Window
+Ka 0.180 0.240 0.300
+Kd 0.180 0.240 0.300
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Door
+Ka 0.300 0.200 0.130
+Kd 0.300 0.200 0.130
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Stone
+Ka 0.550 0.530 0.500
+Kd 0.550 0.530 0.500
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Fence
+Ka 0.700 0.580 0.420
+Kd 0.700 0.580 0.420
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Hay
+Ka 0.860 0.740 0.380
+Kd 0.860 0.740 0.380
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Hay_End
+Ka 0.780 0.640 0.300
+Kd 0.780 0.640 0.300
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Fire
+Ka 1.000 0.450 0.100
+Kd 1.000 0.450 0.100
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Fire_Hot
+Ka 1.000 0.820 0.250
+Kd 1.000 0.820 0.250
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
