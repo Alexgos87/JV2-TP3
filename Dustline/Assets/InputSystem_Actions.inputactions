@@ -7,7 +7,7 @@
             "id": "f3930ca6-a88a-4a1b-ac0b-6ab0f713ae6f",
             "actions": [
                 {
-                    "name": "Throttle",
+                    "name": "Throttle_player1",
                     "type": "Value",
                     "id": "50f3fe8f-ce21-41ac-b6f1-d9015cf35ebb",
                     "expectedControlType": "Axis",
@@ -17,7 +17,17 @@
                     "priority": 0
                 },
                 {
-                    "name": "Steer",
+                    "name": "Throttle_player2",
+                    "type": "Value",
+                    "id": "8bde920d-eaae-40b5-acbb-1147423b76fb",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
+                },
+                {
+                    "name": "Steer_player1",
                     "type": "Button",
                     "id": "0324e165-fd1c-4f9b-91db-707c64d8c842",
                     "expectedControlType": "",
@@ -27,9 +37,29 @@
                     "priority": 0
                 },
                 {
-                    "name": "brake",
+                    "name": "Steer_player2",
+                    "type": "Button",
+                    "id": "09f4ccb7-a6c5-44ce-955c-2c1710d05c0a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "brake_player1",
                     "type": "Button",
                     "id": "6e581d17-6e6b-4158-9fba-06e5e5e88dec",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "brake_player2",
+                    "type": "Button",
+                    "id": "3db7a310-6300-4bac-a91a-3a834214463d",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -45,7 +75,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Throttle",
+                    "action": "Throttle_player1",
                     "isComposite": true,
                     "isPartOfComposite": false
                 },
@@ -56,7 +86,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Throttle",
+                    "action": "Throttle_player1",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -67,7 +97,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Throttle",
+                    "action": "Throttle_player1",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -78,7 +108,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Throttle",
+                    "action": "Throttle_player1",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -89,7 +119,62 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Throttle",
+                    "action": "Throttle_player1",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "1D Axis",
+                    "id": "0b1fb468-3f00-4b93-ab6d-c67a80edabd4",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throttle_player2",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "10b3ead3-10aa-4801-bae9-fb2b444f1c10",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throttle_player2",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "negative",
+                    "id": "adb38f90-bc46-4268-86d0-c834107eba19",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throttle_player2",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "54524e78-ca8d-4b3f-b648-e3abc6819189",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throttle_player2",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "72efbdd0-1d8a-4e6e-80f1-844b13b8c892",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throttle_player2",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -100,7 +185,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Steer",
+                    "action": "Steer_player1",
                     "isComposite": true,
                     "isPartOfComposite": false
                 },
@@ -111,7 +196,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Steer",
+                    "action": "Steer_player1",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -122,7 +207,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Steer",
+                    "action": "Steer_player1",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -133,7 +218,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Steer",
+                    "action": "Steer_player1",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -144,18 +229,73 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Steer",
+                    "action": "Steer_player1",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "1D Axis",
+                    "id": "806a9a64-7a1b-4afc-b8c0-c53604ce5499",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Steer_player2",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "44051a4e-e0d6-46bb-93a1-f531ab86e1cc",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Steer_player2",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "negative",
+                    "id": "ca04d402-4d08-44f4-9837-9b755ed79ad5",
+                    "path": "<Gamepad>/leftStick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Steer_player2",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "d9cf7cc4-8e03-4a04-852f-f8363dd3ebca",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Steer_player2",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "5bb9a5d6-0434-437a-8b11-c3c92acddbe0",
+                    "path": "<Gamepad>/leftStick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Steer_player2",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
                 {
                     "name": "",
                     "id": "6c300f30-876b-40db-a21b-c37e882aa892",
-                    "path": "<Keyboard>/space",
+                    "path": "<Keyboard>/shift",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "brake",
+                    "action": "brake_player1",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -166,7 +306,29 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "brake",
+                    "action": "brake_player1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d22a17b9-1008-49fe-801b-eb0fe304b0ea",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "brake_player2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c2531cad-0eae-46c0-ba37-c8b84313d530",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "brake_player2",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
