@@ -1,0 +1,56 @@
+newmtl Pillar_Red
+Ka 0.84 0.14 0.11
+Kd 0.84 0.14 0.11
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl White
+Ka 0.96 0.96 0.94
+Kd 0.96 0.96 0.94
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Yellow
+Ka 0.98 0.78 0.1
+Kd 0.98 0.78 0.1
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Concrete
+Ka 0.62 0.62 0.6
+Kd 0.62 0.62 0.6
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Metal
+Ka 0.62 0.64 0.67
+Kd 0.62 0.64 0.67
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Check_Black
+Ka 0.05 0.05 0.05
+Kd 0.05 0.05 0.05
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Check_White
+Ka 0.97 0.97 0.97
+Kd 0.97 0.97 0.97
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+

@@ -1,0 +1,208 @@
+newmtl Snow
+Ka 0.900 0.930 0.970
+Kd 0.900 0.930 0.970
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Snow_Blue
+Ka 0.800 0.860 0.940
+Kd 0.800 0.860 0.940
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Rock_Gray
+Ka 0.500 0.510 0.540
+Kd 0.500 0.510 0.540
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Rock_Dark
+Ka 0.350 0.360 0.390
+Kd 0.350 0.360 0.390
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Ice
+Ka 0.640 0.820 0.900
+Kd 0.640 0.820 0.900
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Bark
+Ka 0.340 0.240 0.170
+Kd 0.340 0.240 0.170
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Pine_Dark
+Ka 0.110 0.300 0.220
+Kd 0.110 0.300 0.220
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Pine_Mid
+Ka 0.170 0.380 0.270
+Kd 0.170 0.380 0.270
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Birch
+Ka 0.880 0.860 0.800
+Kd 0.880 0.860 0.800
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Birch_Branch
+Ka 0.450 0.380 0.320
+Kd 0.450 0.380 0.320
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wood
+Ka 0.580 0.380 0.220
+Kd 0.580 0.380 0.220
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Wood_Dark
+Ka 0.380 0.240 0.150
+Kd 0.380 0.240 0.150
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Roof_Snow
+Ka 0.940 0.960 0.990
+Kd 0.940 0.960 0.990
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Window_Lit
+Ka 1.000 0.780 0.400
+Kd 1.000 0.780 0.400
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Door
+Ka 0.300 0.190 0.120
+Kd 0.300 0.190 0.120
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Stone
+Ka 0.550 0.540 0.520
+Kd 0.550 0.540 0.520
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Church_Wall
+Ka 0.920 0.900 0.860
+Kd 0.920 0.900 0.860
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Church_Roof
+Ka 0.280 0.300 0.350
+Kd 0.280 0.300 0.350
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Smoke
+Ka 0.780 0.790 0.820
+Kd 0.780 0.790 0.820
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Metal
+Ka 0.620 0.640 0.670
+Kd 0.620 0.640 0.670
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Chair
+Ka 0.820 0.200 0.170
+Kd 0.820 0.200 0.170
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Carrot
+Ka 0.960 0.500 0.100
+Kd 0.960 0.500 0.100
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Coal
+Ka 0.100 0.100 0.110
+Kd 0.100 0.100 0.110
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Elk
+Ka 0.480 0.340 0.220
+Kd 0.480 0.340 0.220
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Elk_Dark
+Ka 0.320 0.220 0.150
+Kd 0.320 0.220 0.150
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
+newmtl Antler
+Ka 0.820 0.760 0.640
+Kd 0.820 0.760 0.640
+Ks 0 0 0
+Ns 0
+d 1
+illum 1
+
